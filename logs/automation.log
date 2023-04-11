@@ -309,3 +309,16 @@
 09:17:12.801 [main] INFO  testCases.TC_002_LoginTest - *** login test finished***
 09:17:19.355 [main] INFO  testCases.TC_003_SearchProductTest -  Starting TC_004_SearchProductTest 
 09:17:20.731 [main] INFO  testCases.TC_003_SearchProductTest -  Finished TC_004_SearchProductTest 
+12:27:06.984 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting test case TC_001_AccountRegistrationTest ***
+12:27:07.426 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account Link
+12:27:09.005 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration Link
+12:27:09.012 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer info
+12:27:11.068 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue button
+12:27:11.149 [main] INFO  testCases.TC_001_AccountRegistrationTest - registration test completed
+12:27:18.960 [main] INFO  testCases.TC_002_LoginTest - *** Starting test case TC_002_LoginTest ***
+12:27:19.072 [main] INFO  testCases.TC_002_LoginTest - *** clicked on my account link***
+12:27:19.640 [main] INFO  testCases.TC_002_LoginTest - *** clicked on my login link***
+12:27:20.884 [main] INFO  testCases.TC_002_LoginTest - *** clicked on login button***
+12:27:20.983 [main] INFO  testCases.TC_002_LoginTest - *** login test finished***
+12:27:27.179 [main] INFO  testCases.TC_003_SearchProductTest -  Starting TC_004_SearchProductTest 
+12:27:28.572 [main] INFO  testCases.TC_003_SearchProductTest -  Finished TC_004_SearchProductTest 
